@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Linkognito</string>
+    <string name="static_welcome_message">Share a link to this app to get started</string>
+</resources>

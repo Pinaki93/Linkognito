@@ -184,7 +184,6 @@ public class ShareActivity extends AppCompatActivity {
 
         // Make the activity transparent
         setTheme(R.style.Theme_Linkognito_Transparent);
-        setContentView(R.layout.activity_share);
 
         // Handle the incoming intent
         handleIntent(getIntent());
